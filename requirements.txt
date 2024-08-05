@@ -1,0 +1,4 @@
+langchain
+langchain_core
+langgraph
+langchain_openai
